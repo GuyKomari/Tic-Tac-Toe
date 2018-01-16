@@ -1,4 +1,4 @@
-java StudentTester
+java Main
 
 
 pause
