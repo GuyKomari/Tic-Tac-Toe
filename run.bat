@@ -1,4 +1,2 @@
 java Main
-
-
 pause
