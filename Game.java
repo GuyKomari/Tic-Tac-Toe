@@ -21,7 +21,6 @@ public class Game
 	}
 	/**
 	 *  This Method starts the game
-	 * @throws InterruptedException 
 	 */
 	public void startGame()
 	{
